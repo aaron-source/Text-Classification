@@ -1,8 +1,6 @@
 from sklearn.model_selection import train_test_split
 import pandas as pd
 import matplotlib.pyplot as plt
-import time
-from Bio import Medline, Entrez
 import numpy as np
 from Bio import Medline, Entrez
 from nltk.stem import LancasterStemmer
